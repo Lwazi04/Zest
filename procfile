@@ -1,0 +1,1 @@
+web: gunicorn zest_web:app
